@@ -1,2 +1,2 @@
-# C-C-_projects
+# C/C++ projects
 All the projects made with C/C++
